@@ -1,0 +1,4 @@
+Rose Hack Progress Checkin January 18, 2020
+
+2:20pm - We had to download Git to fix an error
+2:23pm - We all have the same Github repo connected  
